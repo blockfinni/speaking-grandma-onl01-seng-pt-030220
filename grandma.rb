@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma(speak = "Hi")
+def speak_to_grandma(speak)
   
    #conditional to test user input
    
